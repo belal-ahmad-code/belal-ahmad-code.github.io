@@ -1,6 +1,6 @@
 # Biomedical Microrobotics Lab
 
-Welcome to the Biomedical Microrobotics Lab.
+Welcome to the Dexterous Microrobotics Lab.
 
 Our research focuses on:
 
