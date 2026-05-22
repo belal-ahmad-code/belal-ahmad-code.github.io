@@ -1,9 +1,25 @@
 ---
 title: "Publications"
 ---
-# Publications
 
-## Peer-Reviewed Journal Papers
+<div class="pub-card">
+  <div class="pub-number">
+    1<br>
+    <a href="#">paper</a>
+  </div>
+
+  <div class="pub-info">
+    <h3>Multi-DoF optothermal microgripper for micromanipulation applications</h3>
+    <p class="authors">K. Chen, A. J. Thompson, and B. Ahmad</p>
+    <p class="journal"><em>IEEE Robotics and Automation Letters</em>, 10(4), 4061–4068 (2025)</p>
+  </div>
+
+  <div class="pub-image">
+    <img src="images/ontip2-crop.png">
+  </div>
+</div>
+
+# Peer-Reviewed Journal Papers
 
 1. **K. Chen, A. J. Thompson, and B. Ahmad**  
    “Multi-DoF optothermal microgripper for micromanipulation applications”  
@@ -42,7 +58,7 @@ title: "Publications"
 
 ---
 
-## Peer-Reviewed Full Conference Papers
+# Peer-Reviewed Full Conference Papers
 
 1. **B. Ahmad, H. Maeda, T. Kawahara, and F. Arai**  
    “Fine positioning of micro-tubular-tools for investigating the stimulus response of swimming Paramecium”  
@@ -59,7 +75,7 @@ title: "Publications"
 
 ---
 
-## Indexed Short Papers / Extended Abstracts
+# Indexed Short Papers / Extended Abstracts
 
 1. **Y. Hou, N. Mandal, B. Ahmad, J. A. Kim, and A. J. Thompson**  
    “Towards background-free fiber-optic SERS using 2PP-fabricated micro-optics”  
@@ -86,7 +102,7 @@ title: "Publications"
 
 ---
 
-## Patents
+# Patents
 
 1. **T. Kawahara, W. Huang, and B. Ahmad**  
    “Cell observation apparatus”  
