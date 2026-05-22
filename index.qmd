@@ -1,6 +1,6 @@
 # Biomedical Microrobotics Lab
 
-Biomedical Microrobotics Lab.
+Welcome to the Biomedical Microrobotics Lab.
 
 Our research focuses on:
 
@@ -9,6 +9,14 @@ Our research focuses on:
 - Biomedical micro-manipulation
 - Minimally invasive robotic intervention
 - Microfabrication and 2PP systems
+
+## People
+
+## Research areas
+
+## Publications
+
+## Contact
 
 ## Principal Investigator
 
