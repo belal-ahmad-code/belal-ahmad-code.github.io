@@ -1,6 +1,8 @@
 ---
 title: "Publications"
 ---
+toc: false
+page-layout: full
 
 ```{=html}
 <div class="pub-card">
