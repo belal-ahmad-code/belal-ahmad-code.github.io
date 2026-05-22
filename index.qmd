@@ -1,5 +1,7 @@
 # Biomedical Microrobotics Lab
 
+![](images/ontip2-crop.png)
+
 Welcome to the Biomedical Microrobotics Lab.
 
 Our research focuses on:
