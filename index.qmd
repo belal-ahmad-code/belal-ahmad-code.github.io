@@ -1,0 +1,16 @@
+# Biomedical Microrobotics Lab
+
+Welcome to the Biomedical Microrobotics Lab.
+
+Our research focuses on:
+
+- Optothermal microrobotics
+- Fibre-enabled robotic systems
+- Biomedical micro-manipulation
+- Minimally invasive robotic intervention
+- Microfabrication and 2PP systems
+
+## Principal Investigator
+
+Dr. Belal Ahmad  
+Lecturer, University of Bath
