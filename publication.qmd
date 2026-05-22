@@ -2,4 +2,44 @@
 title: "Publications"
 ---
 
-Publications page is under construction
+# Journal Articles
+
+## 2025
+
+**K. Chen, B. Ahmad**, et al.  
+“Multi-DoF Optothermal Microgripper for Micromanipulation Applications”  
+*IEEE Robotics and Automation Letters (RA-L)*, 2025.
+
+[Paper](https://doi.org/xxxxx)
+
+---
+
+## 2022
+
+**B. Ahmad**, et al.  
+“Remotely Actuated Optothermal Robotic Microjoints Based on Spiral Bimaterial Design”  
+*IEEE/ASME Transactions on Mechatronics*, 2022.
+
+[Paper](https://doi.org/xxxxx)
+
+---
+
+## 2020
+
+**B. Ahmad**, et al.  
+“Dynamic Response of Swimming Paramecium Induced by Local Stimulation Using a Threadlike-Microtool”  
+*IEEE Robotics and Automation Letters (RA-L)*, 2020.
+
+[Paper](https://doi.org/xxxxx)
+
+---
+
+# Conference Papers
+
+(Add conference papers here)
+
+---
+
+# Preprints
+
+(Add arXiv/preprints here)
