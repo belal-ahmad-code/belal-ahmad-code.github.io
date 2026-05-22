@@ -8,7 +8,7 @@ page-layout: full
 <div class="pub-card">
   <div class="pub-number">
     1<br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10918824" target="_blank">paper</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10918824" target="_blank">paper URL ↗</a>
   </div>
 
   <div class="pub-info">
