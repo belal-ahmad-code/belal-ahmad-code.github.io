@@ -2,6 +2,7 @@
 title: "Publications"
 ---
 
+```{=html}
 <div class="pub-card">
   <div class="pub-number">
     1<br>
@@ -18,6 +19,7 @@ title: "Publications"
     <img src="images/ontip2-crop.png">
   </div>
 </div>
+```
 
 # Peer-Reviewed Journal Papers
 
