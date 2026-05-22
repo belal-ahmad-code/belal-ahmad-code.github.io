@@ -46,7 +46,3 @@
   max-height: 190px;
   object-fit: contain;
 }
-
-.page-columns {
-  grid-template-columns: 260px minmax(0, 1fr) 0px !important;
-}
