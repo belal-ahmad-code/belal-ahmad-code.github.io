@@ -176,19 +176,6 @@ page-layout: full
 </div>
 ```
 
-# Peer-Reviewed Journal Papers
-
-1. **K. Chen, A. J. Thompson, and B. Ahmad**  
-   “Multi-DoF optothermal microgripper for micromanipulation applications”  
-   *IEEE Robotics and Automation Letters*, vol. 10, no. 4, pp. 4061–4068, 2025.  
-   *(Selected by IROS 2025 Program Committee for conference presentation)*
-2. 
-3. 
-4. 
-
-
----
-
 # Peer-Reviewed Full Conference Papers
 
 1. **B. Ahmad, H. Maeda, T. Kawahara, and F. Arai**  
