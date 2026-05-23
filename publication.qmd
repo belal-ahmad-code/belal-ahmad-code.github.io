@@ -24,7 +24,7 @@ page-layout: full
 
 <div class="pub-card">
   <div class="pub-number">
-    1<br>
+    2<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10818570" target="_blank">paper URL ↗</a>
   </div>
 
@@ -41,7 +41,7 @@ page-layout: full
 
 <div class="pub-card">
   <div class="pub-number">
-    1<br>
+    3<br>
     <a href="https://jeos.edpsciences.org/articles/jeos/full_html/2024/02/jeos20240015/F2.html" target="_blank">paper URL ↗</a>
   </div>
 
@@ -58,7 +58,7 @@ page-layout: full
 
 <div class="pub-card">
   <div class="pub-number">
-    1<br>
+    4<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10036018" target="_blank">paper URL ↗</a>
   </div>
 
@@ -73,6 +73,107 @@ page-layout: full
   </div>
 </div>
 
+<div class="pub-card">
+  <div class="pub-number">
+    5<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10036018" target="_blank">paper URL ↗</a>
+  </div>
+
+  <div class="pub-info">
+    <h3>Remotely actuated optothermal robotic microjoints based on spiral bimaterial design</h3>
+    <p class="authors">B. Ahmad, A. Barbot, G. Ulliac, and A. Bolopion</p>
+    <p class="journal"><em>IEEE/ASME Transactions on Mechatronics</em>, vol. 27, no. 5, pp. 4090–4100, 2022.</p>
+  </div>
+
+  <div class="pub-image">
+    <img src="images/ontip2-crop.png">
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-number">
+    6<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10036018" target="_blank">paper URL ↗</a>
+  </div>
+
+  <div class="pub-info">
+    <h3>Laser actuated microgripper using optimized chevron-shaped actuator</h3>
+    <p class="authors">B. Ahmad*, H. Chambon*, P. Tissier*, and A. Bolopion  (*Equal first author)</p> 
+    <p class="journal"><em>Micromachines</em>, vol. 12, no. 12, p. 1487, 2021.</p>
+  </div>
+
+  <div class="pub-image">
+    <img src="images/ontip2-crop.png">
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-number">
+    7<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10036018" target="_blank">paper URL ↗</a>
+  </div>
+
+  <div class="pub-info">
+    <h3>Mobile microrobots for in vitro biomedical applications: a survey</h3>
+    <p class="authors">B. Ahmad, M. Gauthier, G. J. Laurent, and A. Bolopion</p>
+    <p class="journal"><em>IEEE Transactions on Robotics</em>, vol. 38, no. 1, pp. 646–663, 2021.</p>
+  </div>
+
+  <div class="pub-image">
+    <img src="images/ontip2-crop.png">
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-number">
+    8<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10036018" target="_blank">paper URL ↗</a>
+  </div>
+
+  <div class="pub-info">
+    <h3>Dynamic response of swimming Paramecium induced by local stimulation using a threadlike-microtool</h3>
+    <p class="authors">B. Ahmad, H. Maeda, and T. Kawahara</p>
+    <p class="journal"><em>IEEE Robotics and Automation Letters</em>, vol. 5, no. 2, pp. 2570–2577, 2020.</p>
+  </div>
+
+  <div class="pub-image">
+    <img src="images/ontip2-crop.png">
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-number">
+    9<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10036018" target="_blank">paper URL ↗</a>
+  </div>
+
+  <div class="pub-info">
+    <h3>Three-motorized-stage cyclic stretching system for cell monitoring based on chamber local displacement waveform</h3>
+    <p class="authors">W. Huang, S. Zhang, B. Ahmad, and T. Kawahara</p>
+    <p class="journal"><em>Applied Sciences</em>, vol. 9, no. 8, p. 1560, 2019.</p>
+  </div>
+
+  <div class="pub-image">
+    <img src="images/ontip2-crop.png">
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-number">
+    4<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10036018" target="_blank">paper URL ↗</a>
+  </div>
+
+  <div class="pub-info">
+    <h3>Microrobotic platform for single motile microorganism investigation</h3>
+    <p class="authors">B. Ahmad, H. Maeda, T. Kawahara, and F. Arai</p>
+    <p class="journal"><em>Micromachines</em>, vol. 8, no. 10, p. 295, 2017.</p>
+  </div>
+
+  <div class="pub-image">
+    <img src="images/ontip2-crop.png">
+  </div>
+</div>
 ```
 
 # Peer-Reviewed Journal Papers
@@ -84,27 +185,7 @@ page-layout: full
 2. 
 3. 
 4. 
-5. **B. Ahmad, A. Barbot, G. Ulliac, and A. Bolopion**  
-   “Remotely actuated optothermal robotic microjoints based on spiral bimaterial design”  
-   *IEEE/ASME Transactions on Mechatronics*, vol. 27, no. 5, pp. 4090–4100, 2022.
-6. **B. Ahmad*, H. Chambon*, P. Tissier*, and A. Bolopion**  
-   “Laser actuated microgripper using optimized chevron-shaped actuator”  
-   *Micromachines*, vol. 12, no. 12, p. 1487, 2021.  
-   *(*Equal first author)*
-7. **B. Ahmad, M. Gauthier, G. J. Laurent, and A. Bolopion**  
-   “Mobile microrobots for in vitro biomedical applications: a survey”  
-   *IEEE Transactions on Robotics*, vol. 38, no. 1, pp. 646–663, 2021.
-8. **B. Ahmad, H. Maeda, and T. Kawahara**  
-   “Dynamic response of swimming Paramecium induced by local stimulation using a threadlike-microtool”  
-   *IEEE Robotics and Automation Letters*, vol. 5, no. 2, pp. 2570–2577, 2020.  
-   *(Selected by ICRA 2020 Program Committee for conference presentation)*
-9. **W. Huang, S. Zhang, B. Ahmad, and T. Kawahara**  
-   “Three-motorized-stage cyclic stretching system for cell monitoring based on chamber local displacement waveform”  
-   *Applied Sciences*, vol. 9, no. 8, p. 1560, 2019.
-10. **B. Ahmad, H. Maeda, T. Kawahara, and F. Arai**  
-    “Microrobotic platform for single motile microorganism investigation”  
-    *Micromachines*, vol. 8, no. 10, p. 295, 2017.  
-    *(Selected as cover page of the issue)*
+
 
 ---
 
