@@ -137,7 +137,7 @@ page-layout: full
   </div>
 
   <div class="pub-image">
-    <img src="images/ontip2-crop.png">
+    <img src="images/RAL2020.png">
   </div>
 </div>
 
