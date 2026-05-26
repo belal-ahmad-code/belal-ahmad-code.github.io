@@ -10,5 +10,61 @@ title: "Team"
 ## Belal Ahmad  
 **Lecturer, University of Bath**
 
-Research interests: dexterous microrobotics, fibre-enabled actuation, optothermal microactuators, biomedical micromanipulation.
+Dr. Belal Ahmad is a Lecturer in the Department of Mechanical Engineering working at the intersection of microrobotics, biomedical engineering, and precision actuation systems. His research focuses on the development of dexterous endoscopic microrobots integrated at the tip of optical fibres for minimally invasive medical interventions and next-generation “see-and-treat” surgical technologies. His broader interests include microrobotics, fibre-enabled actuation, optothermal microactuators, biomedical micromanipulation, and high-speed sensing and control systems.
+
+He received his M.Sc. and Ph.D. degrees in Engineering from Kyushu Institute of Technology in 2015 and 2019, respectively. Following his doctoral studies, he worked as a postdoctoral researcher at the AS2M Department of FEMTO-ST Institute between 2019 and 2023. He subsequently joined Imperial College London as an Imperial College Research Fellow, where he conducted research on fibre-optic optothermal microrobots and biomedical micromanipulation systems before joining the Department of Mechanical Engineering as a Lecturer.
+
+His research has spanned a broad range of microrobotic systems, including high-speed robotic platforms for single-cell observation and stimulation, optothermal and magnetic microrobots for micromanipulation and single-cell handling, multi-DOF microactuators, and high-speed motion tracking and control of nanopositioning systems. His current work aims to advance highly dexterous microscale robotic tools capable of operating in confined and delicate environments for future minimally invasive medical applications.
+
+Research Interests:
+Dexterous microrobotics • Fibre-enabled actuation • Optothermal microactuators • Biomedical micromanipulation • Endoscopic microrobots • High-speed sensing and actuation • Medical robotics
+
+[Google Scholar](#)  
+[ORCID](#)  
+[Email](mailto:your@email.com)
 :::
+:::
+
+---
+
+# Current Members
+
+## PhD Students
+
+::: {.person-card}
+![](images/student1.jpg){.person-photo}
+
+::: {.person-info}
+## Student Name
+
+PhD Student
+
+Research topic: fibre-enabled microrobotics and sensing.
+:::
+:::
+
+---
+
+## MSc / MRes Students
+
+::: {.person-card}
+![](images/student2.jpg){.person-photo}
+
+::: {.person-info}
+## Student Name
+
+MRes Student
+
+Project: wearable haptic teleoperation interface for microrobotics.
+:::
+:::
+
+---
+
+# Alumni
+
+## Former Students and Researchers
+
+- Student Name — Current position at Company/University
+- Student Name — PhD candidate at XYZ
+- Student Name — Research Engineer at ABC
