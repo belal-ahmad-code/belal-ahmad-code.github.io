@@ -1,14 +1,23 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
-  title: "belal-ahmad-code.github.io"
+  title: "Dexterous Microrobotics Lab"
+  favicon: images/logo2.png
   navbar:
+    logo: images/logo2.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: publication.qmd
+        text: Publications
+      - href: team.qmd
+        text: Team
+      - href: about.qmd
+        text: About
 
 format:
   html:
@@ -17,6 +26,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
