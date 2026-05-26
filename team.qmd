@@ -24,6 +24,9 @@ Dexterous microrobotics • Fibre-enabled actuation • Optothermal microactuato
    rel="noopener noreferrer">
    Google Scholar
 </a>
+
+<br>
+
 [Email](mailto:b.ahmad@imperial.ac.uk)
 :::
 :::
@@ -74,7 +77,10 @@ Project: wearable haptic teleoperation interface for microrobotics.
 <a href="https://profiles.imperial.ac.uk/a.fantetti" target="_blank" rel="noopener noreferrer">Dr Alfredo Fantetti</a> 
 and 
 <a href="https://profiles.imperial.ac.uk/alex.thompson08" target="_blank" rel="noopener noreferrer">Dr Alex Thompson</a>.
-- **Idris Muzaffar Ariff**, MSc in Advanced Mechanical Engineering (2026), co-supervised with [Dr Alfredo Fantetti](https://profiles.imperial.ac.uk/a.fantetti) and [Dr Alex Thompson](https://profiles.imperial.ac.uk/alex.thompson08).
-- **Yanze Li**, MRes in Medical Robots and Image-Guided Intervention (2025), co-supervised with [Dr Alex Thompson](https://profiles.imperial.ac.uk/alex.thompson08).
-- **Maungo R Poomore**, BSc in Chemical Engineering project student (2025), co-supervised with [Dr Talia Shmool](https://profiles.imperial.ac.uk/t.shmool20).
-- **Kaiwen Chen**, MRes in Medical Robots and Image-Guided Intervention (2024), co-supervised with [Dr Alex Thompson](https://profiles.imperial.ac.uk/alex.thompson08).
+- **Idris Muzaffar Ariff**, MSc in Advanced Mechanical Engineering (2026), co-supervised with 
+<a href="https://profiles.imperial.ac.uk/a.fantetti" target="_blank" rel="noopener noreferrer">Dr Alfredo Fantetti</a> 
+and 
+<a href="https://profiles.imperial.ac.uk/alex.thompson08" target="_blank" rel="noopener noreferrer">Dr Alex Thompson</a>.
+- **Yanze Li**, MRes in Medical Robots and Image-Guided Intervention (2025), co-supervised with <a href="https://profiles.imperial.ac.uk/alex.thompson08" target="_blank" rel="noopener noreferrer">Dr Alex Thompson</a>.
+- **Maungo R Poomore**, BSc in Chemical Engineering project student (2025), co-supervised with <a href="https://profiles.imperial.ac.uk/t.shmool20" target="_blank" rel="noopener noreferrer">Dr Talia Shmool</a>.
+- **Kaiwen Chen**, MRes in Medical Robots and Image-Guided Intervention (2024), co-supervised with <a href="https://profiles.imperial.ac.uk/alex.thompson08" target="_blank" rel="noopener noreferrer">Dr Alex Thompson</a>.
