@@ -46,3 +46,25 @@
   max-height: 190px;
   object-fit: contain;
 }
+
+.person-card {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 30px;
+  align-items: start;
+  margin-top: 25px;
+  margin-bottom: 40px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #ddd;
+}
+
+.person-photo {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.person-info h3 {
+  margin-top: 0;
+}
