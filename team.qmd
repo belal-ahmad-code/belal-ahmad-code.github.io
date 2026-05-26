@@ -1,14 +1,13 @@
 ---
 title: "Team"
 ---
-# Team
 
-## Principal Investigator
+# Principal Investigator
 
 ::: {.person-card}
-![](images/belal.jpg){.person-photo}
+![](images/Belal.jpg){.person-photo}
 
-### Dr. Belal Ahmad  
+## Belal Ahmad  
 **Lecturer, University of Bath**
 
 Research interests: dexterous microrobotics, fibre-enabled actuation, optothermal microactuators, biomedical micromanipulation.
