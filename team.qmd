@@ -19,15 +19,19 @@ His research has spanned a broad range of microrobotic systems, including high-s
 Research Interests:
 Dexterous microrobotics • Fibre-enabled actuation • Optothermal microactuators • Biomedical micromanipulation • Endoscopic microrobots • High-speed sensing and actuation • Medical robotics
 
-<a href="https://scholar.google.co.jp/citations?user=bixz2c4AAAAJ&hl=en"
-   target="_blank"
-   rel="noopener noreferrer">
-   Google Scholar
-</a>
+<div class="profile-links">
 
-<br>
+    <a href="https://scholar.google.co.jp/citations?user=bixz2c4AAAAJ&hl=en"
+    target="_blank"
+    rel="noopener noreferrer">
+    Google Scholar
+    </a>
 
-[Email](mailto:b.ahmad@imperial.ac.uk)
+    <a href="mailto:b.ahmad@imperial.ac.uk">
+   Email
+    </a>
+
+</div>
 :::
 :::
 

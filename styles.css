@@ -77,3 +77,8 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.profile-links a {
+  display: block;
+  margin-bottom: 3px;
+}
